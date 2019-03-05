@@ -1,0 +1,6 @@
+  <launch>
+    <!-- Test Node-->
+      <node pkg="custf_write_file" type="custf_write_file"
+          name="custf_write_file" output="screen" />
+  
+  </launch>
